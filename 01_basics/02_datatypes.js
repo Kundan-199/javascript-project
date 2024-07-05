@@ -15,3 +15,5 @@ let email ="kundan@gmail.com";
 // object
 
 console.log(typeof "name");
+
+//typeof is used for show the type of variable such as string null etc
