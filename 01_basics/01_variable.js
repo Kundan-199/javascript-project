@@ -8,3 +8,5 @@ city= "mumbai";
 console.log( accountId); // show only single entity.
 
 console.table([accountId,accountEmail,accPass,city]);// show deta in tabular form
+
+// to run program in terminal write = node 01_basics/01_variables
